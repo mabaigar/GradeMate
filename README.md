@@ -4,7 +4,7 @@ Phase 1: Planning and Requirements Gathering (Weeks 1-2)
 
 Phase 2: Design and User Experience (Weeks 3-4)
 •	Create initial wireframes, interface designs, and layout for app screens.
-•	Present the design prototype to stakeholders for feedback and revisions.
+•	Present the design prototype to stakeholders for feedback and revisions. 
 
 Phase 3: Development (Weeks 5-10)
 •	Front-End Development: Build the app interface, focusing on input simplicity, ease of navigation, and grade tracking functionalities.
